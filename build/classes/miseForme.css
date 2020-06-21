@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 mai 2019, 15:37:31
+    Author     : VIANIE
+*/
+
+.root{
+   -fx-background-image: url("Capture.PNG")
+       
+}
+.background {
+    -fx-background-color: #c3c4c4;
+    -fx-background-radius: 10;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+}
+ 
+.button:hover {
+    -fx-background-color: #ffffff;
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+.button{-fx-font-size: 2; -fx-font-weight: bold; -fx-padding: 0 0 0 0;};
+
+.root { 
+    -fx-background-color: lightskyblue; 
+} 
+.VBox { 
+    -fx-spacing: 10; 
+    -fx-alignment: center-left; 
+} 
+
+
+
+.button { 
+    -fx-base: blue; 
+    -fx-focus-color: limeblue; 
+    -fx-font-size: 2em; 
+} 
+.button:focused { 
+    -fx-background-insets: -5, 1, 2, -1.4, 2.6; 
+}

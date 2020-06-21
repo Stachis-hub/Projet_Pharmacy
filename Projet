@@ -1,0 +1,15 @@
+ant -f C:\\Users\\VIANIE\\Documents\\NetBeansProjects\\projet jfxsa-run
+init:
+Deleting: C:\Users\VIANIE\Documents\NetBeansProjects\projet\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\VIANIE\Documents\NetBeansProjects\projet\build\built-jar.properties
+compile:
+Detected JavaFX Ant API version 1.3
+jfx-deployment:
+jar:
+Copying 12 files to C:\Users\VIANIE\Documents\NetBeansProjects\projet\dist\run504975832
+jfx-project-run:
+Executing C:\Users\VIANIE\Documents\NetBeansProjects\projet\dist\run504975832\projet.jar using platform C:\Program Files\Java\jdk1.8.0_152\jre/bin/java
+Deleting directory C:\Users\VIANIE\Documents\NetBeansProjects\projet\dist\run504975832
+jfxsa-run:
+BUILD SUCCESSFUL (total time: 12 seconds)
